@@ -1,6 +1,6 @@
 def soma_nat(n):
     
-    if n == 0:
+    if n == 00:
         return 0
     
     else:
